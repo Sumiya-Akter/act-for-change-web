@@ -1,0 +1,234 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+.header {
+  color: White;
+  font-size: 30px;
+  background:url(https://www2.deloitte.com/content/dam/insights/us/articles/43123_feeling-the-heat/images/FeelingTheHeat_1440x660.jpg/_jcr_content/renditions/cq5dam.web.1440.660.jpeg);
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  overflow-x: hidden;
+  color: #444444;
+  background-color: white;
+}
+  
+a {
+  color: #2487ce;
+  text-decoration:none;
+}
+  
+a:hover {
+  color: #469fdf;
+  text-decoration: none;
+}
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33%;
+  padding: 15px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width: 75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+/*--------------------------------------------------------------
+# Header
+--------------------------------------------------------------*/
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 100px;
+}
+
+/*--------------------------------------------------------------
+# Navigation Menu
+--------------------------------------------------------------*/
+  /* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active{
+  background-color: #e03d5d;
+  color: white;
+}
+
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+}
+
+.column{
+  float: left;
+  width: 33%;
+  padding: 15px;
+}
+.box {
+    float: left;
+    width: 45%;
+    padding-left: 15px;
+    padding-right: 100px;
+}
+
+.bot-btn {
+    margin-right:20px;
+}
+
+.footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
+
+.click {
+  color: gray;
+}
+
+.click:hover {
+  color: #1B1B3A;
+}
+
+.active-input-group {
+  float: left;
+}
+
+.input-group {
+  float: left;
+  white-space: nowrap;
+  padding-top: 15px;
+  padding-left: 50px;
+}
+
+
+/*--------------------------------------------------------------
+# Profile Card
+--------------------------------------------------------------*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: right;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+
+.profileCards{
+  float:left;
+  width:25%;
+  padding:15px;
+}
