@@ -1,5 +1,4 @@
 # Act-for-Change
-
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Implemented Functions](#Implemented-Functions)
