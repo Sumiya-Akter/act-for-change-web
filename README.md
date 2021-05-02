@@ -3,6 +3,7 @@
 1. [Overview](#Overview)
 2. [Implemented Functions](#Implemented-Functions)
 3. [What We Learned](#What-We-Learned)
+4. [Resources](#Resources)
 ## Overview
 
 The goal of this website is to inform others about climate change and how it affects us. We also aim to address ways we can help and participates in climate change efforts.
@@ -26,3 +27,7 @@ The goal of this website is to inform others about climate change and how it aff
 
 ### Link to Github Pages
  https://sumiya-akter.github.io/act-for-change-web/
+
+### Resources
+- https://www.w3schools.com/
+- https://getbootstrap.com/
