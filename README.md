@@ -5,7 +5,7 @@
 3. [What We Learned](#What-We-Learned)
 ## Overview
 
-The goal of this website is to inform others about climate change and how it affects us. We also aim address ways we can help and participates in climate change efforts.
+The goal of this website is to inform others about climate change and how it affects us. We also aim to address ways we can help and participates in climate change efforts.
 
 ### Implemented Functions
 
