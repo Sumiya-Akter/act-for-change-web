@@ -6,7 +6,7 @@
 4. [Resources](#Resources)
 ## Overview
 
-The goal of this website is to inform others about climate change and how it affects us. We also aim to address ways we can help and participates in climate change efforts.
+The goal of this website is to inform others about climate change and how it affects us. We also aim to address ways we can help and participates in climate change initiatives.
 
 ### Implemented Functions
 
